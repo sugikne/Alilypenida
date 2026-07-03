@@ -1,0 +1,6 @@
+{
+  "name": "Alily Penida",
+  "description": "Modern premium restaurant and cafe landing page website for Alily Penida in Nusa Penida, Bali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
