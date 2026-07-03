@@ -49,7 +49,7 @@ export default function Navbar({ currentPage, setCurrentPage }: NavbarProps) {
           : 'bg-transparent py-5'
       }`}
     >
-      <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-6 md:px-20 flex items-center justify-between">
         {/* Brand Logo */}
         <a
           id="brand-logo"
@@ -63,7 +63,7 @@ export default function Navbar({ currentPage, setCurrentPage }: NavbarProps) {
           <img
             src={IMAGES.logo}
             alt="A.LILY Penida Logo"
-            className="h-10 sm:h-12 w-auto mix-blend-multiply transition-transform duration-300 group-hover:scale-105"
+            className="h-10 sm:h-12 w-auto mix-blend-multiply transition-transform duration-300 group-hover:scale-200"
             referrerPolicy="no-referrer"
           />
         </a>

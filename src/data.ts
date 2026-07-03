@@ -2,10 +2,10 @@ import { MenuItem, BlogPost, Review, Attraction } from './types';
 
 // Let's use the exact names of the generated images
 export const IMAGES = {
-  logo: '/src/assets/images/alily_logo_1783072646367.jpg',
-  hero: '/src/assets/images/alily_hero_1783062175828.jpg',
-  smoothieBowl: '/src/assets/images/alily_smoothie_bowl_1783062195116.jpg',
-  coffee: '/src/assets/images/alily_specialty_coffee_1783062210888.jpg',
+  logo: '/public/images/Logo.png',
+  hero: '/public/images/Screenshot_3-7-2026_1932_www.instagram.com.jpeg',
+  smoothieBowl: '/public/images/Screenshot_3-7-2026_19550_www.instagram.com.jpeg',
+  coffee: '/public/images/alily_specialty_coffee_1783062210888.jpg',
   
   // High quality Unsplash replacements for other food/lifestyle/interior shots
   avocadoToast: 'https://images.unsplash.com/photo-1541532713592-79a0317b6b77?auto=format&fit=crop&q=80&w=800',
