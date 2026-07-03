@@ -44,7 +44,7 @@ export default function Reservation() {
     if (!validate()) return;
 
     // Prefilled message formatting exactly as requested
-    const waNumber = '6285337249782';
+    const waNumber = '62878-6147-8222';
     const message = `Hello Alily Penida,
 
 I would like to reserve a table.
@@ -149,7 +149,7 @@ Thank you.`;
                 For custom event hire, birthday groups, or wedding banquets, call our management desk directly.
               </p>
               <a
-                href="https://wa.me/6285337249782"
+                href="https://wa.me/6287861478222"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-xs font-semibold text-[#B89B72] bg-white px-5 py-3 rounded-full hover:bg-[#F8F6F2] transition-colors mt-2 cursor-pointer"
