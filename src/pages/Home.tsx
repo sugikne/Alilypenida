@@ -457,7 +457,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
         </div>
       </section>
 
-      {/* 7. LIVE LOCATION & MAP INTEGRATION */}
+     {/* 7. LIVE LOCATION & MAP INTEGRATION */}
       <section id="home-location-embed" className="py-12 md:py-20 bg-white border-t border-[#6A5843]/10">
         <div className="max-w-7xl mx-auto px-6 md:px-12 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
           
@@ -503,7 +503,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
 
             <div className="pt-2">
               <a
-                href="https://maps.app.goo.gl/E6Xs1r5aFaCw5DWX6"
+                href="https://www.google.com/maps/place/Alily,+coffee+%26+eatery/@-8.6793093,115.4869854,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd273c90eef3afd:0x2654d2883188c37d!8m2!3d-8.6793093!4d115.4895603!16s%2Fg%2F11swf43nt4"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#6A5843] text-white hover:bg-[#A6845C] px-6 py-3 rounded-full text-xs font-semibold tracking-wide shadow-md transition-all cursor-pointer"
@@ -519,7 +519,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
             <iframe
               id="home-google-map-iframe"
               title="Alily Penida Location Map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3943.916053303862!2d115.50987397587786!3d-8.65191838799484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd313a0e7feffff%3A0xe67db5cfb114dcf6!2sAlily%20Penida%20Cafe%20%26%20Restaurant!5e0!3m2!1sen!2sid!4v1783000000000!5m2!1sen!2sid"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3943.5186419736866!2d115.4869854!3d-8.6793093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd273c90eef3afd%3A0x2654d2883188c37d!2sAlily%2C+coffee+%26+eatery!5e0!3m2!1sen!2sid!4v1783000000000!5m2!1sen!2sid"
               width="100%"
               height="100%"
               style={{ border: 0 }}

@@ -5,7 +5,7 @@ import { NEARBY_ATTRACTIONS } from '../data';
 
 export default function Location() {
   const handleOpenMaps = () => {
-    window.open('https://maps.app.goo.gl/E6Xs1r5aFaCw5DWX6', '_blank');
+    window.open('https://www.google.com/maps/place/Alily,+coffee+%26+eatery/@-8.6793093,115.4869854,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd273c90eef3afd:0x2654d2883188c37d!8m2!3d-8.6793093!4d115.4895603!16s%2Fg%2F11swf43nt4', '_blank');
   };
 
   const contacts = [
@@ -77,7 +77,7 @@ export default function Location() {
             <iframe
               id="google-map-iframe"
               title="Alily Penida Location Map"
-              src="https://www.google.com/maps/place/Alily,+coffee+%26+eatery/@-8.6793093,115.4869854,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd273c90eef3afd:0x2654d2883188c37d!8m2!3d-8.6793093!4d115.4895603!16s%2Fg%2F11swf43nt4?entry=tts&g_ep=EgoyMDI2MDYyOS4wIPu8ASoASAFQAw%3D%3D&skid=3612101b-9b5c-4798-af49-d1a2572b948b"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3943.5186419736866!2d115.4869854!3d-8.6793093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd273c90eef3afd%3A0x2654d2883188c37d!2sAlily%2C+coffee+%26+eatery!5e0!3m2!1sen!2sid!4v1783000000000!5m2!1sen!2sid"
               width="100%"
               height="100%"
               style={{ border: 0 }}
